@@ -16,8 +16,9 @@ Your Rationale: This monochromatic color palette is centered around red, more ad
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=52D0B0ku9n4lGtpsasqzjjfIieA
+Your Rationale: Green is associated with nature and new beginnings, making it a fitting color choice for springtime tours at the Botanical Gardens. Spring itself is a season often associated with new things and the Gardens themselves will be full of greenery. Since the palette is adjacent there's yellow and teal to go along with green. Yellow works well in this context, considering it has a lot of associations in the natural world. Generally, the colors presented in the announcement will tie in directly with the colors that visitors may experience during an actual tour. 
+
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
