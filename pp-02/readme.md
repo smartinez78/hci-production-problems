@@ -22,8 +22,8 @@ Your Rationale: Green is associated with nature and new beginnings, making it a 
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=3010U0kv8tujJA8o+v-w+njDFic
+Your Rationale: I've learned that generally, kids like bright and bold colors. I've done art activities with children attending elementary school and found that all of them have a general understanding of what the primary colors are and can recognize these colors easily. Not to mention that they have a better understanding of how these colors mix when compared to the secondary colors. Therefore I thought that it would be a good choice to stick as close as possible to primary colors for this website since the app is targeted for kids, and to keep the colors intense. Red is the color with the largest emphasis in this palette, and I think it's a good choice considering how much it stands out in general use.
 
 4. A custom color palette for advertising a course on cybersecurity
 
