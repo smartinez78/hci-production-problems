@@ -17,7 +17,7 @@ Your Rationale: This monochromatic color palette is centered around red, more ad
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
 Your Palette URL: http://paletton.com/#uid=52D0B0ku9n4lGtpsasqzjjfIieA
-Your Rationale: Green is associated with nature and new beginnings, making it a fitting color choice for springtime tours at the Botanical Gardens. Spring itself is a season often associated with new things and the Gardens themselves will be full of greenery. Since the palette is adjacent there's yellow and teal to go along with green. Yellow works well in this context, considering it has a lot of associations in the natural world. Generally, the colors presented in the announcement will tie in directly with the colors that visitors may experience during an actual tour. 
+Your Rationale: Green is associated with nature and new beginnings, making it a fitting color choice for springtime tours at the Botanical Gardens. Spring itself is a season often associated with new things and the Gardens themselves will be full of greenery. Since the palette is adjacent there's yellow and teal to go along with green. Yellow works well in this context, considering it has a lot of associations in the natural world. Generally, the colors presented in the announcement will tie in directly with the colors that visitors may experience during an actual tour.
 
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
@@ -27,5 +27,5 @@ Your Rationale: I've learned that generally, kids like bright and bold colors. I
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=c3V164y3n0ks2n6hHHNqHEdJll7OwdC
+Your Rationale: The focus of this palette is blue, it's a color I tend to see associated a lot with technology and I see it frequently in flyers and websites related to cybersecurity. Blue is associated with calmness and responsibility which is the kind of feel a cybersecurity course should give. The material the course will be providing is meant to give people the skills they need to confidently work in the security sector, therefore you'd want to give the impression of being trustworthy. Teal is also a popular color choice for cybersecurity marketing, likely due to how close it is to blue. The yellow-gold color is a strong accent choice, it's opposite of the three other colors on the wheel, guaranteeing it will stand out wherever it is used on the advertisement. 
