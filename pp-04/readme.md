@@ -32,8 +32,15 @@ Based on what the MCA form should do, only the membership type is truly importan
 although the ability to select adding an additional person is there, it is not required. Basic membership is the default
 value in the list, which I think is reasonable according to the guidelines, and the list is sorted alphabetically to make locating the membership option easier.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/navigation/
 * Describe how you implemented that guideline in your sketch:
+Describe how you implemented that guideline in your sketch: I kept some of the navigation guidelines in mind.
+The current MCA mobile website has really messy tabs, the words are jumbled together and they don't look like buttons
+you can click on at first glance. One of the guidelines states that it should be fast and easy to get content. In the sketch, the
+different tabs are combined into a collapsible menu. The user will click the menu button and the choices for other pages will appear.
+This will make it easier to read because each different tab will appear bigger on the screen, and they will all be stacked neatly on top of each other.
+Although different than what an app would do, this also provides a clear path.
+The user will know what button to refer to if they want to move to another page, but the site is kept clutter free.
 
 * HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch: 
+* Describe how you implemented that guideline in your sketch:
