@@ -48,4 +48,5 @@ should fill the screen, backgrounds should extend to the edges of the display. T
 only distracting, but also fails to fill the entire screen. I decided to get rid of it altogether in my sketch, opting for a solid color instead.
 I also implemented alignment for ease of scanning. One of the issues of the MCA website is that, at the bottom, there is a section full of contact information and museum hours. The information is useful but it's very difficult to follow because the text is not aligned in regards to each other.
 Improving the spacing and making sure that the contact information section is aligned with the location and hours section will make it easier to
-read.
+read. I noticed that a lot of museums only show if the building is open on the day the user visits the site. For example, if a user visits Shedd's website
+on a Monday, and the museum is open, the website will state that it is currently open and list the Monday visiting hours. The full schedule is still available on the site elsewhere. I think this would work for MCA and would make the bottom of the page look friendlier.
