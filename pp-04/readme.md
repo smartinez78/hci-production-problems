@@ -42,5 +42,10 @@ This will make it easier to read because each different tab will appear bigger o
 Although different than what an app would do, this also provides a clear path.
 The user will know what button to refer to if they want to move to another page, but the site is kept clutter free.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
+* Describe how you implemented that guideline in your sketch: One of the visual design guidelines says that visual elements
+should fill the screen, backgrounds should extend to the edges of the display. The current MCA site has a background that is not
+only distracting, but also fails to fill the entire screen. I decided to get rid of it altogether in my sketch, opting for a solid color instead.
+I also implemented alignment for ease of scanning. One of the issues of the MCA website is that, at the bottom, there is a section full of contact information and museum hours. The information is useful but it's very difficult to follow because the text is not aligned in regards to each other.
+Improving the spacing and making sure that the contact information section is aligned with the location and hours section will make it easier to
+read.
