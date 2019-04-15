@@ -17,13 +17,13 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Clear CTAs (Call to Action) that lead the user or collect information.
+2. Styles, colors and typography are legible and consistent.
+3. There is enough whitespace between content.
+4. Content is relevant and easy to read.
+5. Website is responsive and accessible on different devices.
+6. Simple navigation structure (navigation labels are clear and concise).
+7. Avoid storing sensitive data, encrypt it if it must be stored.
+8. Check for hidden JavaScript errors/warnings.
+9. Adequate text-to-background contrast.
+10. Ads and pop-ups are unobtrusive. 
