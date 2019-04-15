@@ -11,8 +11,9 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. http://agatabraja.com/website-usability-checklist/
+2. http://seanmacentee.com/checklists/web-design-usability-checklist/
+3. https://www.socialmediatoday.com/news/is-your-website-user-friendly-a-25-point-website-usability-checklist-info/528678/
 
 * Your own condensed ten-item, must-have usability checklist:
 
